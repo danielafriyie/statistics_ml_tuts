@@ -1,1 +1,1 @@
-# statistics_ml_tuts
+# Stats and ML
